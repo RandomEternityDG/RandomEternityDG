@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @RandomEternityDG
+- 👀 I’m interested in Roblox Studio
+- 🌱 I’m currently learning Lua coding
